@@ -1,0 +1,34 @@
+{
+  "name": "javascript-codewars",
+  "version": "1.0.0",
+  "description": "Repo to work on codewars katas doing pair programming.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/73nko/javascript-codewars.git"
+  },
+  "keywords": [
+    "ES6",
+    "codewars",
+    "katas",
+    "learning",
+    "training",
+    "pair",
+    "programming"
+  ],
+  "author": "73nko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/73nko/javascript-codewars/issues"
+  },
+  "homepage": "https://github.com/73nko/javascript-codewars#readme",
+  "devDependencies": {
+    "babel-jest": "^26.0.1",
+    "eslint": "^7.2.0",
+    "eslint-plugin-jest": "^23.13.2",
+    "jest": "^26.0.1"
+  }
+}

@@ -1,2 +1,4 @@
 # javascript-codewars
-Repo to work on codewars katas doing pair programming. 
+
+We are gonna use this repository to practice and learn some javascript Resolving [Codewars](https://codewars.com) exercises.
+This is going to be a pair programming work.

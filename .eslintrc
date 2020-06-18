@@ -1,0 +1,11 @@
+{
+    "extends": "standard",
+    "parserOptions": {
+        "ecmaVersion": 2020
+    },
+    "plugins": ["jest"],
+    "env": {
+        "node": true,
+        "jest/globals": true
+    }
+}
