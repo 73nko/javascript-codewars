@@ -2,7 +2,7 @@
   "name": "javascript-codewars",
   "version": "1.0.0",
   "description": "Repo to work on codewars katas doing pair programming.",
-  "main": "src/index.js",
+  "main": "src/which-are-in/index.js",
   "scripts": {
     "test": "jest"
   },

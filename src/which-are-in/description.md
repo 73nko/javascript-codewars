@@ -15,7 +15,7 @@ returns ["arp", "live", "strong"]
 - Example 2
 
 ```javascript
-: a1 = ["tarp", "mice", "bull"]
+a1 = ["tarp", "mice", "bull"]
 
 a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
 
